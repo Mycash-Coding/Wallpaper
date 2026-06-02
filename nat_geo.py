@@ -1,4 +1,4 @@
-import os
+wimport os
 import ctypes
 import urllib.request
 import re
