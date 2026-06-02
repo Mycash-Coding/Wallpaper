@@ -1,0 +1,2 @@
+@echo off
+cmd /c "uv run --with beautifulsoup4 file/location/file_name.py"
